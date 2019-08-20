@@ -9,7 +9,7 @@ The app uses an iterative local search algorithm to find large conserved subgrap
 
 ## Installation
 
-[//] The Cytoscape app is available through the Cytoscape app store here: http://apps.cytoscape.org/apps/cytomcs.
+<!--- The Cytoscape app is available through the Cytoscape app store here: http://apps.cytoscape.org/apps/cytomcs. -->
 
 ## Compilation
 
