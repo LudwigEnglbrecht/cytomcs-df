@@ -25,7 +25,7 @@ Then clone the CytoMCS-DF repository, install the FaithMCS package locally and c
 
 ```
 git clone https://github.com/LudwigEnglbrecht/cytomcs-df.git
-cd cytomcs
+cd cytomcs-df
 mvn install:install-file -Dfile=/path/to/faithmcs-0.2.jar
 mvn package
 ```
